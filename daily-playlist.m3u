@@ -4,6 +4,8 @@
 #DATE: 2026-11-10
 
 # BANGLA
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhytpprjMTLXpD5ADzXQmeyDaFMPZLWKbuliKsBF5VjU3NZo0-X4WrZXxzx548BjsSoR9wRa2qLnwH7IOOb1a6vxuQXbZYAMYffBXkw9EGAoWsHMMb6uAVQ_NAhS_-rutjadCHjzoSaOEKEdZKMlSRTJoXWtrKyXbbKKQRnQoQPaheWwsGDZTuUiIgHEA/s1080/1000059166.png",Bangla TV Europe
+https://ghudditv.torongoplus.workers.dev/tvapp/Bangla_TV_EU_New/Transcoded/Bangla_TV_EU_1080p/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjI6EgpZP4CbZzHpyPReyMxdJmXk8nhd1V1YKQLidx7qWowEomPZB1QHbUYaW2Oz_1ymH_4FHGvRw6V4V9syjpRj4BqaKnnEtGfePx0Zj87JMZmWctbEuRZh8TmXltisOUZpRxFjTge87f7TdzsLKDzyDNK53oxcnxHhmXId9lEG3OsypbMZT4nrn5eg/s600/1000059119.png",BTV HD
 https://gov.iptv-network.workers.dev/live/national.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDNbhgx2CBgL8s_51UOzuqCqrXnIDjhRUHtj34b70B1Wv5pTdAMINje5rAooYnTSfGYrq2PMQDY5toCe0GRgPEp5dqsUtgJ2NObidEvZpvGeiplEXgRI099-cVMoexdXVB3E3MMesYp3_oxM3b_I1vSbEF-LKfl-B_WwQY2PfNQodSL_1uyOgt347XRA/s1080/1000010075.png",BTV News
@@ -74,6 +76,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://nps3.aethelcode.workers.dev/live/tencricket.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2CeaFGW6Exu1ozNyUFWoUs7Dfzemym1svuFeB0Km3VcFXSn1wDUZdwVbSVtkBVcNUef_8W85lB5eRntHxz04Ybm0zDzENNBofbqBaKnDA7JkX2jnsDXFW6raxzcf-H5sJtGbyS6qqjldpLp9WR7lp4_y_YcpE4v79xb_dxNNtPgGcp_3bACXdcAiVdw/s1080/1000063850.png",TVRI Sports
 https://m.mxonlive.xyz/nexusstream/tvri-sports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOgyC8yKz6b86u9_RQUVuWkrj7E32kf42XAnlcp_g06WHJveiBVLVrifbas1lxROSLRWC_FHvHWibyQvG9aRNbfAfTaBtMDS4QVze7wsTNXqBdQsmVMZpNelhwS5Ppmnoh6DFtgChH3y7UFCIjrFIcMQpMYMh6HmriVFFL4yaPT000W7hN_GdNiGbf6g/s1080/1000063307.png",Willow Sports
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh20UHe_DMceL98clzG0TUBYwvo_3aOHtN3mI6qAJnONQL6i3OYr7OVVzLtnw5qkTNVD7D_EjZbsHYe4GMx3bPzuiEwWXbRz6Ryo8FPCoZTG_BvfBPgBuxbJSwswY8jiTpv36e1bXZnGDkaAOwpD1QmaIuf95bVUB_NMvinUnqO_RsEqxij3pfVSOHi-Q/s1080/1000010077.png",Xtream Sports
 https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
@@ -154,10 +158,14 @@ https://play.torongoplus.workers.dev/live/islamtv.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaGV1rjMnfayQtAnm2Nco8dvkxjBGoOc30kK9zvWFHTTKgHBuynFMcjlua556QatBkmEeBdQd8Q9AFhsI0L4y83qiFM9Hueuoml270SZhascjtJqG2KgOC7TDd1l7cvRppZ9g-Ct5NM-XfUOaQ_4EFFVw5VOrPl7M4sDA81dt93jMjFcY9FAyMp-Yglw/s1080/1000023432.png",Madani Channel
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJblVWxN4JUgVkWbs3c2oCJFNf_ONZrlAws84fvpy2hKiNc5H8LFJDFmrzclRAFq_OrFtHPAIQoSrL3KZMkt0vKBwPLrWcF7R_SXlDv-pTMPV7zAocF7V_gtyfQ8-MN6TRNOTF4jAMWOOheLzXP87HX0h0HeNCjbL5ouaqfJ_uqWLe3YgVCGmVQNsuCw/s1080/1000061652.png",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTZgotu5MDgwwbWdlMvdv_GHWbdwkAPappIssIxuHpJK3-lBT16WXTK-BX13JJwTDFVOfVfbaHA6V37KDfEeIrUgqSPJmHnaLYHGumQ7PATse0UtH8o9SMejBcOX-etVqqux9Znsz2Vv7PlMo31FdgdDYlV-MSRHxoBbZRBzBhIVWBsHN8-2_KFNQpGw/s600/Nur_20251216_221739_0000.png",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik_VqjLRZJSi_Kkwq9kIq12pprZhHMNsRkdsc5XkvNb5CBZu_mh2h2dxlQW14aRguNQlJ90cNmgqN2zc8wmOQZz0jdbd-WSDR2_jvZjQWzLngU6BIkix_ukJEnih9iBM7nozxDtPiohYzQ0JSFFteojq8I4E53sDbsEmlmaDk7eicfRtTwwycBYRHK/s600/Nur_20251103_202848_0000.png",Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilBD5U0Y-SRE4EwxRmrlmRurS85HE88I8OyrLoGv_CDqeo_rpHTQxz5LeWr08NtoL28NIoZr6ooK9ElFN4UoG7F2UTd9qypBTKhn39oS7jC9wjCNzJjX1KJelnoaJGttyhDrsK10FEOBYR7hqFKLYQaDHTB8p8Ut5t4d25jkZxfdekuYblQvJvRvrc4g/s1080/1000060377.png",QURAN
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 # CARTOON/KIDS
 #EXTINF:-1 group-title="CARTOON/KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOeic0c37X0og4h6ZAUiQl_yyBfCHzIS7un9Fk3wMltEkkClvtgLplJtyQA2_pXPAUyhGU9OD9dthtXoZUsWHKu-e920Y8_k5IWodcmCJS_hOzwySyuN2yexpVIkcjdwFxl9CPM6J9WQ5K_EroShhcpVGNqt7CGLXeTtDHagYjtMmg0uaUBO-wQ_Phfw/s1080/1000021568.png",Cartoon Network UK
@@ -180,8 +188,6 @@ https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus
 https://nps1.iptv-network.workers.dev/live/discovery.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmXfl5LEm632YDgJh2KmO3_EAmMRkzTjuQublDb22BFQ4vgXlREAguqUum4PUk_Wr_D_FMfHld-c_PfVoQNUY8aVei4D71aRJjXtUBEd1NEz0hUwfbrIwO3Ju6j5toAZrdovsLrnSdfhI6VyNHyWmNh0ELZ63diKkczBr7bSZvc8mV2CA1H_Huvav3vw/s1080/1000015299.png",Discovery Science
 https://nps3.aethelcode.workers.dev/dplus/science.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitDfRnHaq8JAWy2T_OkW-M6E-ivSaSG29exmgkbiLZlHVInK6EJkUw5tEMvGZ1Z8evLLzJiv-22WFpVy3pc7uNNI273YJLBOOCkSxYUyGxfhz0zaA0cboYbXO4Vj7PUJ2ILPDtIHIAgHZmEPou0WbRnlCVHVPfX1BSii2jECnY9v4usYvGsFApicGzEw/s1080/1000066211.png",History TV18 Hindi
-https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi6-wUVArigMQz7SCToPYtqUMjFllkcbe9slV_VcbCZlZrqgOxw3O2lckWFocGq1qtvSn94B7IRrtCztDezAdxgVIZ9PHF1-6F56mqUV8NMGGR_unhYaRyuO0uRqtPzhcCylFs7HE3rM0ec2crPegiG30hXT4fLAlPEbgH4nj_NhTrRtkjQwYC-dalNg/s1080/1000015501.png",Travel XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
