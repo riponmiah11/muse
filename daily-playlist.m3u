@@ -82,8 +82,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://nps3.aethelcode.workers.dev/live/tencricket.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2CeaFGW6Exu1ozNyUFWoUs7Dfzemym1svuFeB0Km3VcFXSn1wDUZdwVbSVtkBVcNUef_8W85lB5eRntHxz04Ybm0zDzENNBofbqBaKnDA7JkX2jnsDXFW6raxzcf-H5sJtGbyS6qqjldpLp9WR7lp4_y_YcpE4v79xb_dxNNtPgGcp_3bACXdcAiVdw/s1080/1000063850.png",TVRI Sports
 https://m.mxonlive.xyz/nexusstream/tvri-sports.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOgyC8yKz6b86u9_RQUVuWkrj7E32kf42XAnlcp_g06WHJveiBVLVrifbas1lxROSLRWC_FHvHWibyQvG9aRNbfAfTaBtMDS4QVze7wsTNXqBdQsmVMZpNelhwS5Ppmnoh6DFtgChH3y7UFCIjrFIcMQpMYMh6HmriVFFL4yaPT000W7hN_GdNiGbf6g/s1080/1000063307.png",Willow Sports
-https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA8WcSdOODjCUK9dpcDupPCDhnBZ6Wv2AHl9gEpt3tgIRyjrS9vVjRy_2yZnnXMTGjpRBY7p5LU3ScCuhM73cOP6ccz691fgKTFInBTIzFincRZagu8qiE795zI4uO6wPx0a4TL0SAKK17gisOB5FV2vl4agfMx1-IccORSMutasTBelWU808iOHYLOg/s1080/1000063302.png",TyC Sports
+https://m.mxonlive.xyz/nexusstream/tycsport.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh20UHe_DMceL98clzG0TUBYwvo_3aOHtN3mI6qAJnONQL6i3OYr7OVVzLtnw5qkTNVD7D_EjZbsHYe4GMx3bPzuiEwWXbRz6Ryo8FPCoZTG_BvfBPgBuxbJSwswY8jiTpv36e1bXZnGDkaAOwpD1QmaIuf95bVUB_NMvinUnqO_RsEqxij3pfVSOHi-Q/s1080/1000010077.png",Xtream Sports
 https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
@@ -124,6 +124,8 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 https://play.torongoplus.workers.dev/live/themovieclub.m3u8
 
 # MUSIC
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRodDMUc9KahX7dfw8DI4UJvv_rVgeDlZYCN0GI4w61dVR4LevZO2WRYgshIOTBzWvCw83qNjtxfztzYLcemjO5BJyspdTMNqeNIVMKvkvi1xiXvXYqFLVDSlxpfLxM6eE-UevdYqrKtToDg3CmULH1yWZI2cGofE3oW3i84LxxxSahCcWpqe0dxog5A/s600/Nur_20251107_160014_0000.png",8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNgIWp9gHFlPyABldECW8HOxVsN3vPqb8ZjPHxBEmgkWI2cya7-rwEzgt9NXD0uApTeq4opWBiNR8UkBxP3W_kP3PIZOdKl9elPiK65k8cSNPNweK3psV66kvf_VJX_nUmLCxmDREAMjv-oiRvEzCXipsNBJXHTM3T4ZDwK3ubUp038JOSwiZUjEg/s1080/1000104821.png",9x Jalwa
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWUAqcRFDBPEI49XSsNrXiWUDZp2tvB2WoU2lD5Dux_1BAwyPmag8gxgAj79O3VUabYx8EqQzOqLZNxwrfVSh6h5QmEgOj_xfeohhMhucceDcKzaNZVBxIJDIk2dgNd_IGB_7QnHAUh5fZzfXPBayLJuwktrAL0z8AN_pqrwzuk6BFRq4iVoYlePhn/s600/Nur_20251104_201324_0000.png",9XM
@@ -168,6 +170,8 @@ https://play.torongoplus.workers.dev/live/islamtv.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaGV1rjMnfayQtAnm2Nco8dvkxjBGoOc30kK9zvWFHTTKgHBuynFMcjlua556QatBkmEeBdQd8Q9AFhsI0L4y83qiFM9Hueuoml270SZhascjtJqG2KgOC7TDd1l7cvRppZ9g-Ct5NM-XfUOaQ_4EFFVw5VOrPl7M4sDA81dt93jMjFcY9FAyMp-Yglw/s1080/1000023432.png",Madani Channel
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJblVWxN4JUgVkWbs3c2oCJFNf_ONZrlAws84fvpy2hKiNc5H8LFJDFmrzclRAFq_OrFtHPAIQoSrL3KZMkt0vKBwPLrWcF7R_SXlDv-pTMPV7zAocF7V_gtyfQ8-MN6TRNOTF4jAMWOOheLzXP87HX0h0HeNCjbL5ouaqfJ_uqWLe3YgVCGmVQNsuCw/s1080/1000061652.png",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTZgotu5MDgwwbWdlMvdv_GHWbdwkAPappIssIxuHpJK3-lBT16WXTK-BX13JJwTDFVOfVfbaHA6V37KDfEeIrUgqSPJmHnaLYHGumQ7PATse0UtH8o9SMejBcOX-etVqqux9Znsz2Vv7PlMo31FdgdDYlV-MSRHxoBbZRBzBhIVWBsHN8-2_KFNQpGw/s600/Nur_20251216_221739_0000.png",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik_VqjLRZJSi_Kkwq9kIq12pprZhHMNsRkdsc5XkvNb5CBZu_mh2h2dxlQW14aRguNQlJ90cNmgqN2zc8wmOQZz0jdbd-WSDR2_jvZjQWzLngU6BIkix_ukJEnih9iBM7nozxDtPiohYzQ0JSFFteojq8I4E53sDbsEmlmaDk7eicfRtTwwycBYRHK/s600/Nur_20251103_202848_0000.png",Peace TV Urdu
