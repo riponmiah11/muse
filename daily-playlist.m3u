@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: Chitra Daily Playlist
-#MANAGEMENT: TORONGO+ / iDhamaka (sources: Torongo Plus, iDhamaka)
-#DATE: 2026-11-10
+#MANAGEMENT: TORONGO+ / iDhamaka / OUTFLANK TV (sources: Torongo Plus, iDhamaka, Outflank TV)
+#DATE: 2026-11-11
 
 # BANGLA
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhytpprjMTLXpD5ADzXQmeyDaFMPZLWKbuliKsBF5VjU3NZo0-X4WrZXxzx548BjsSoR9wRa2qLnwH7IOOb1a6vxuQXbZYAMYffBXkw9EGAoWsHMMb6uAVQ_NAhS_-rutjadCHjzoSaOEKEdZKMlSRTJoXWtrKyXbbKKQRnQoQPaheWwsGDZTuUiIgHEA/s1080/1000059166.png",Bangla TV Europe
@@ -18,8 +18,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYrEq_9uumgNixoiyKR3vfzdfOGVlXMpoZarlhhNl9fc5OyclIF1DP4-B_Ie-AD9xp7cCWlSEXe3G1j8VcfP5NAVA5rQMOrX3xQI5rthxW_5OHtr5L-v7vSI31DwNNymtKwpazr8pLzg4sf7oN-oBqELCgFSY2-7bxrkdRCOp4TFVnXWsf2DxIlvtMRA/s600/Nur_20251216_221822_0000.png",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png",G-Series
-https://vods2.aynaott.com/gseriesDrama/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcGJGZ_ORv5Ull5UA4iF44tdxTYe55ahau-rP6m9sMpbokAI8p46SmqkCe05phb5jBrIVHxRfenzgkKcWDgr8hdOtNgrgUkVJhDqal8T-3R9DfUlkHfygnXW9pLCxgdHsGyDIwK0UCpAh_uK_m88UpVgvVhqBUkPIp5QgMUCUbDkvIDLgNHsIEwG8n/s1080/1000068844.png",Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUytWIP-VVJdFlHTiigxsmzHh3D8g5eXDAqmtBmD0M4JZiMZ3LPvVByKtWPTwJV4seYdZKBTGDcmgkHBb9tWTR645l1TZoEyskqOwTpsBQoaRKSVfYu0A7XH2l6sY_jeOsdjN3bKAATzjPrDZdzvLlMcB05lC00RwJgXIn_5o83zGLs3lWXLRmqJTD1Q/s600/Nur_20251216_221611_0000.png",GTV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2LWHMLeQR_RCoxUGae5HTqqA7y7a-0A2IUfR6aNVjFPRHOa-iiP8Hv3HK_iTuJKpiUBPCNGgBSMmXPjbqprI3t2YeLf-_QhE1ZhafnGD6FEFxGXcw5g1yE2dz2TEhF7eXoTTpmcS4TlOd75ptLZEuJVdnTo2qCY_mxKm2wbpZL4QqudSaRat3I9Qphg/s600/Nur_20251226_221413_0000.png",Jhankar TV
@@ -38,8 +38,6 @@ https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 https://gov.iptv-network.workers.dev/live/sangshad.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-gOTZYUBCEpOwrtIYHCLViHpAU9Cz7V6zR14fu6XOlYahvBguPaxmbjH6ClmGp-PpLVDR8iFTOLRXo7xmxXBg5heY_umgJK0DRNwFb8pqCPP0rwdtZ9goIjgur2DeyqzIAZXgkObDCGIMVjXwhfvDH1Ol-kzFc9PlKFC8iWpWtYUskRxoint29agY/s600/Nur_20251107_222900_0000.png",SRK TV
 https://srktv.net/srktvhls/cdnlive_srktv.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3xDbMtpinviq5VD4MUWi7wOpDUWXj2rGgacmL8l0OzP0H4ucz_-_MU5wks0Mi0ophamvizBwuZzDfWnZv-BqLeMGw_fC72zvQ_ZFpoghzFIeazD24DS1-tjrTImpHIU3hmV4WNCx64Lk45GMaOiC09eoAnEY5yas3XC4KfbGIPhY1hzoBGJYtjbm2g/s1080/1000059223.png",Thikana TV
-https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/chunklist_w1958237102.m3u8
 
 # INDIAN BANGLA
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgggfNwc2E_oHEi9_UJQlWjmFel17nm58hP20KEcV3EDKk5DIhrqrC_pfJ75tYASSvyfxfUQqTJedxu1GdoxkyxVLzxbN-nzyGQil-KqruWtWK2Qlf-KRc5YalGd2ulUXjlzC4j3AkHmr8_MwMfOBzHGH9jvvNR43KK747_OIhpfMqbPM-Kx15TwvdMaQ/s600/Nur_20251219_134716_0000.png",DD Bangla
@@ -148,10 +146,16 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNgykqMam6JJiRk8ku6-s8GpqBp1446h-YjMKMBKSl6CCpk-I2mRUuAjslAS1qujTWUhH85vZ7T7aF_Myf26Pw2f1JlWx1s_IOUuvP_WsGhpps9n_c1_vpnnKfXKg3g6qZQoKahlNSeNg6wQcOxMyRjWb6SIxmGqfYm5zAyqxQIEO3M0waQ7SjjCUP/s1080/1000104833.png",Islam TV
 https://play.torongoplus.workers.dev/live/islamtv.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpNE_V9uvoa-FL5POVbZgS8ja-iAqsAr3Wq2qdKl-dPBQ9q-rYjPwsZNqCYWFwIWOf3Mtlb3SaVMc0pSckEs_TofNcJc9u_ZRIhw9azWbg-9G7PTM49EGNnvnRLKpofbcUgxjuRpRIK1g1hEFU_f6P-gKZZ5hBuZWfmakqyXWQ1_MsgI_5LmKofTeyzw/s600/Nur_20251226_221620_0000.png",Madani Ch. Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaGV1rjMnfayQtAnm2Nco8dvkxjBGoOc30kK9zvWFHTTKgHBuynFMcjlua556QatBkmEeBdQd8Q9AFhsI0L4y83qiFM9Hueuoml270SZhascjtJqG2KgOC7TDd1l7cvRppZ9g-Ct5NM-XfUOaQ_4EFFVw5VOrPl7M4sDA81dt93jMjFcY9FAyMp-Yglw/s1080/1000023432.png",Madani Channel
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTZgotu5MDgwwbWdlMvdv_GHWbdwkAPappIssIxuHpJK3-lBT16WXTK-BX13JJwTDFVOfVfbaHA6V37KDfEeIrUgqSPJmHnaLYHGumQ7PATse0UtH8o9SMejBcOX-etVqqux9Znsz2Vv7PlMo31FdgdDYlV-MSRHxoBbZRBzBhIVWBsHN8-2_KFNQpGw/s600/Nur_20251216_221739_0000.png",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik_VqjLRZJSi_Kkwq9kIq12pprZhHMNsRkdsc5XkvNb5CBZu_mh2h2dxlQW14aRguNQlJ90cNmgqN2zc8wmOQZz0jdbd-WSDR2_jvZjQWzLngU6BIkix_ukJEnih9iBM7nozxDtPiohYzQ0JSFFteojq8I4E53sDbsEmlmaDk7eicfRtTwwycBYRHK/s600/Nur_20251103_202848_0000.png",Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilBD5U0Y-SRE4EwxRmrlmRurS85HE88I8OyrLoGv_CDqeo_rpHTQxz5LeWr08NtoL28NIoZr6ooK9ElFN4UoG7F2UTd9qypBTKhn39oS7jC9wjCNzJjX1KJelnoaJGttyhDrsK10FEOBYR7hqFKLYQaDHTB8p8Ut5t4d25jkZxfdekuYblQvJvRvrc4g/s1080/1000060377.png",QURAN
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 # CARTOON/KIDS
 #EXTINF:-1 group-title="CARTOON/KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOeic0c37X0og4h6ZAUiQl_yyBfCHzIS7un9Fk3wMltEkkClvtgLplJtyQA2_pXPAUyhGU9OD9dthtXoZUsWHKu-e920Y8_k5IWodcmCJS_hOzwySyuN2yexpVIkcjdwFxl9CPM6J9WQ5K_EroShhcpVGNqt7CGLXeTtDHagYjtMmg0uaUBO-wQ_Phfw/s1080/1000021568.png",Cartoon Network UK
@@ -174,8 +178,6 @@ https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus
 https://nps1.iptv-network.workers.dev/live/discovery.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmXfl5LEm632YDgJh2KmO3_EAmMRkzTjuQublDb22BFQ4vgXlREAguqUum4PUk_Wr_D_FMfHld-c_PfVoQNUY8aVei4D71aRJjXtUBEd1NEz0hUwfbrIwO3Ju6j5toAZrdovsLrnSdfhI6VyNHyWmNh0ELZ63diKkczBr7bSZvc8mV2CA1H_Huvav3vw/s1080/1000015299.png",Discovery Science
 https://nps3.aethelcode.workers.dev/dplus/science.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitDfRnHaq8JAWy2T_OkW-M6E-ivSaSG29exmgkbiLZlHVInK6EJkUw5tEMvGZ1Z8evLLzJiv-22WFpVy3pc7uNNI273YJLBOOCkSxYUyGxfhz0zaA0cboYbXO4Vj7PUJ2ILPDtIHIAgHZmEPou0WbRnlCVHVPfX1BSii2jECnY9v4usYvGsFApicGzEw/s1080/1000066211.png",History TV18 Hindi
-https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi6-wUVArigMQz7SCToPYtqUMjFllkcbe9slV_VcbCZlZrqgOxw3O2lckWFocGq1qtvSn94B7IRrtCztDezAdxgVIZ9PHF1-6F56mqUV8NMGGR_unhYaRyuO0uRqtPzhcCylFs7HE3rM0ec2crPegiG30hXT4fLAlPEbgH4nj_NhTrRtkjQwYC-dalNg/s1080/1000015501.png",Travel XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
